@@ -13,7 +13,7 @@ If you distribute a Windows Standalone build to a different device, please ensur
 ## Install
 
 Add next uri in Unity Package Manager  
-`https://github.com/adabru/BleWinrtDll.git?path=/BleWinrtDll-UnityPackage`
+`https://github.com/monolith-jaehoon/BleWinrtDll.git?path=/BleWinrtDll-UnityPackage`
 
 ## Build
 
