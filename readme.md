@@ -10,6 +10,11 @@ The `Demo.scene` in this repo uses non-blocking calls to avoid creating Threads.
 
 If you distribute a Windows Standalone build to a different device, please ensure that your application requires the latest Microsoft Visual C++ Redistributable to be installed.
 
+## Install
+
+Add next uri in Unity Package Manager  
+`https://github.com/adabru/BleWinrtDll.git?path=/BleWinrtDll-Unity/Packages/adabru.ble_winrt_dll`
+
 ## Build
 
 There is a prebuilt dll included in this repo, `BleWinrtDll Unity\Assets\BleWinrtDll.dll` or `DebugBle\BleWinrtDll.dll` (both are the same). But you can also build the dll yourself in VisualStudio. Follow these steps:
