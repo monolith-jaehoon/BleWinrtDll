@@ -10,7 +10,7 @@ If you distribute a Windows Standalone build to a different device, please ensur
 
 ## Install
 
-Open Unity Package Manager in your project. Click **Install package from git URL**. Enter https://github.com/monolith-jaehoon/BleWinrtDll.git?path=/BleWinrtDll-UnityPackage#reorganize-unity_package and confirm. 
+Open Unity Package Manager in your project. Click **Install package from git URL**. Enter https://github.com/adabru/BleWinrtDll.git?path=/BleWinrtDll-UnityPackage and confirm. 
 
 <img width="200" height="297" alt="image" src="https://github.com/user-attachments/assets/2f155699-43e4-49c8-9c1e-88e36a2de5df" />
 
@@ -19,8 +19,6 @@ Wait for the installation. Import the sample.
 <img width="400" height="399" alt="image" src="https://github.com/user-attachments/assets/50bc9440-c914-420f-893c-0ec18ced1140" />
 
 Open the scene **Demo.unity**. Press play. Ensure your Bluetooth is turned on.
-
-PS: This installation method is beta 🙂. If you encounter an issue with it, please report at https://github.com/adabru/BleWinrtDll/pull/76.
 
 ## Build
 
